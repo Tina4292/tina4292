@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tina 👋
 
 - 🔭 I’m currently working on building full-stack web development projects for my CIS degree (React, Node.js, Express, MongoDB)
 - 🌱 I’m currently learning how to integrate everything i've learned in school into real world applications so I'm job ready!
