@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I’m Tina 👋</h1>
+<h2 align="center">I'm currently a Senior at the Paul Engler College of Business at West Texas A&M University. My field of study is Computer Information Systems</h2>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tina-coppedge-computer-information-systems/)"> 
