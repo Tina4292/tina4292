@@ -11,7 +11,7 @@
 
 ### 🔭 I’m currently working on
 - Building full-stack web development projects for my CIS degree (React, Node.js, Express, MongoDB).
-- A portfolio of academic + personal builds you can browse here.
+- A portfolio of academic + personal builds.
 
 ### 🌱 I’m currently learning
 - How to integrate everything i've learned in school into real world applications so I'm job ready!
