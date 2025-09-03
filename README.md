@@ -20,7 +20,7 @@
 - How I integrate creativity with technology.
 
 ### 📫 How to reach me
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tina-coppedge-computer-information-systems/)  
+- LinkedIn: [linkedin.com/in/tina-coppedge-computer-information-systems](https://www.linkedin.com/in/tina-coppedge-computer-information-systems/)  
 
 ### ⚡ Fun fact
 I’ve been crocheting since I was 7, and I’m part of the Society for Creative Anachronism—so I spend my time coding by day and recreating medieval crafts by night!
