@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building full-stack web development projects for my CIS degree (React, Node.js, Express, MongoDB)
+- 🌱 I’m currently learning how to integrate everything i've learned in school into real world applications so I'm job ready!
+- 💬 Ask me about how I integrate creativity with technology
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tina-coppedge-computer-information-systems/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I’ve been crocheting since I was 7, and I’m part of the Society for Creative Anachronism—so I spend my time coding by day and recreating medieval crafts by night!
+- 
 <!--
 **Tina4292/tina4292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
